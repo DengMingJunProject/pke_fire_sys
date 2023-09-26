@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=WG_BEEP Pin=U4-10
+Removed Pin From Net: NetName=WG_LED Pin=U4-11
+Removed Pin From Net: NetName=WG_D1 Pin=U4-14
+Removed Pin From Net: NetName=WG_D0 Pin=U4-15
+Added Pin To Net: NetName=READER_BEEP Pin=U4-10
+Added Pin To Net: NetName=READER_LED Pin=U4-11
+Added Pin To Net: NetName=READER_D1 Pin=U4-14
+Added Pin To Net: NetName=READER_D0 Pin=U4-15
+Added Room: Name=sch

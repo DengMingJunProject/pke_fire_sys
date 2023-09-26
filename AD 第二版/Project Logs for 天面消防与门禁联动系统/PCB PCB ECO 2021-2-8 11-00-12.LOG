@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=C43-1
+Removed Pin From Net: NetName=3V3 Pin=M1-3
+Added Pin To Net: NetName=3.3V Pin=C43-1
+Added Pin To Net: NetName=3.3V Pin=M1-3
+Added Member To Class: ClassName=sch Member=Component U4 STM32F401RE
+Added Room: Name=sch

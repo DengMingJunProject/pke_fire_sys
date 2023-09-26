@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LORA SETA Pin=U4-35
+Removed Pin From Net: NetName=LORA SETB Pin=U4-41
+Added Pin To Net: NetName=LORA SETB Pin=U4-35
+Added Pin To Net: NetName=LORA SETA Pin=U4-41
+Added Room: Name=sch

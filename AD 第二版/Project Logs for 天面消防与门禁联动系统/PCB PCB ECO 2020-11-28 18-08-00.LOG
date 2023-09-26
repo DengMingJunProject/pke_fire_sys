@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LORA SETA Pin=U4-35
+Added Pin To Net: NetName=LORA AUX Pin=U4-36
+Added Pin To Net: NetName=LORA SETB Pin=U4-41
+Added Room: Name=sch

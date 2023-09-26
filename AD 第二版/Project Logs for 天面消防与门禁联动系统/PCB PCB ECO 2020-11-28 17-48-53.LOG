@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=KEY_SEARCH Pin=U4-27
+Removed Pin From Net: NetName=KEY_OPEN Pin=U4-28
+Added Pin To Net: NetName=KEY_OPEN Pin=U4-27
+Added Pin To Net: NetName=KEY_SEARCH Pin=U4-28
+Added Room: Name=sch

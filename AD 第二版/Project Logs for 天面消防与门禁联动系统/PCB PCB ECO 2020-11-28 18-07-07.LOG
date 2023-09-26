@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=LORA_TXD Pin=J4-4
+Added Pin To Net: NetName=LORA_RXD Pin=J4-5
+Added Room: Name=sch

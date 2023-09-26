@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=KEY_EMERGENCY Pin=U4-41
+Added Pin To Net: NetName=KEY_EMERGENCY Pin=U4-2
+Added Room: Name=sch

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DOOR_OPEN Pin=U4-35
+Added Pin To Net: NetName=DOOR_OPEN Pin=U4-8
+Added Member To Class: ClassName=sch Member=Component U4 STM32F401RC
+Added Room: Name=sch

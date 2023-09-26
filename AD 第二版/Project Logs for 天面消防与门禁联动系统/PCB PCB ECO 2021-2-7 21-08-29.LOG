@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C43 Old Footprint=0402 New Footprint=0603_C
+Change Component Comment : Designator=C43 Old Comment=100nF New Comment=100nF (104) 10% 50V
+Change component parameters: Designator = "C43" ("C43"); Footprint = "0402"; UniqueID = "\AJGTGAJX" ("\AJGTGAJX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Room: Name=sch
